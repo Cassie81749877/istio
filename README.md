@@ -1,4 +1,4 @@
-# Istio
+# Istio where is
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1395/badge)](https://bestpractices.coreinfrastructure.org/projects/1395)
 [![Go Report Card](https://goreportcard.com/badge/github.com/istio/istio)](https://goreportcard.com/report/github.com/istio/istio)
@@ -17,7 +17,7 @@ Istio is an open source service mesh that layers transparently onto existing dis
 - To ask questions and get assistance from our community, visit [discuss.istio.io](https://discuss.istio.io)
 - To learn how to participate in our overall community, visit [our community page](https://istio.io/about/community)
 
-In this README:
+In this  README i say:
 
 - [Introduction](#introduction)
 - [Repositories](#repositories)
